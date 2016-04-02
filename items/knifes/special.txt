@@ -1,0 +1,10 @@
+Bayonet - models/weapons/v_knife_bayonet.mdl
+Flip Knife - models/weapons/v_knife_flip.mdl
+Gut Knife - models/weapons/v_knife_gut.mdl
+Karambit - models/weapons/v_knife_karam.mdl
+M9 Bayonet - models/weapons/v_knife_m9_bay.mdl
+Huntsman Knife - models/weapons/v_knife_tactical.mdl
+Butterfly Knife - models/weapons/v_knife_butterfly.mdl
+Falchion Knife - models/weapons/v_knife_falchion_advanced­.mdl
+Shadow Daggers - models/weapons/v_knife_push.mdl
+Bowie Knife - models/weapons/v_knife_survival_bowie.md­l

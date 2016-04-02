@@ -1,0 +1,60 @@
+"516"
+{
+	"name"		"weapon_knife_push"
+	"prefab"		"melee_unusual"
+	"item_name"		"#SFUI_WPNHUD_knife_push"
+	"item_description"		"#CSGO_Item_Desc_knife_push"
+	"image_inventory"		"econ/weapons/base_weapons/weapon_knife_push"
+	"icon_default_image"		"materials/icons/inventory_icon_weapon_knife_push.vtf"
+	"model_player"		"models/weapons/v_knife_push.mdl"
+	"model_world"		"models/weapons/w_knife_push.mdl"
+	"model_dropped"		"models/weapons/w_knife_push_dropped.mdl"
+	"used_by_classes"
+	{
+		"terrorists"		"1"
+		"counter-terrorists"		"1"
+	}
+	"attributes"
+	{
+		"pedestal display model"		"models/weapons/v_knife_push_inspect.mdl"
+		"icon display model"		"models/weapons/w_knife_push_icon.mdl"
+	}
+	"inventory_image_data"
+	{
+		"spot_light_key"
+		{
+			"position"		"0 -30 40"
+			"color"		"0.95 0.98 1"
+			"lookat"		"0.0 0.0 0.0"
+			"inner_cone"		"0.500000"
+			"outer_cone"		"1.000000"
+		}
+		"point_light_accent"
+		{
+			"position"		"0 0 -50"
+			"color"		"1 1 1"
+		}
+	}
+	"paint_data"
+	{
+		"PaintableMaterial0"
+		{
+			"Name"		"knife_push"
+			"ViewmodelDim"		"2048"
+			"WorldDim"		"512"
+			"BaseTextureOverride"		"1"
+			"WeaponLength"		"5.884990"
+			"UVScale"		"0.583642"
+		}
+	}
+	"tags"
+	{
+		"ItemSet"
+		{
+			"tag_value"		"set_community_9"
+			"tag_text"		"#CSGO_set_community_9"
+			"tag_group"		"ItemSet"
+			"tag_group_text"		"#SFUI_InvTooltip_SetTag"
+		}
+	}
+}

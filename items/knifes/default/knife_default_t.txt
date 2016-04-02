@@ -1,0 +1,29 @@
+		"59"
+		{
+			"name"		"weapon_knife_t"
+			"prefab"		"melee"
+			"item_name"		"#SFUI_WPNHUD_Knife_T"
+			"item_description"		"#CSGO_Item_desc_Knife_T"
+			"item_quality"		"normal"
+			"baseitem"		"1"
+			"default_slot_item"		"1"
+			"item_sub_position"		"melee"
+			"image_inventory"		"econ/weapons/base_weapons/weapon_knife_t"
+			"icon_default_image"		"materials/icons/inventory_icon_weapon_knife_t.vtf"
+			"model_player"		"models/weapons/v_knife_default_t.mdl"
+			"model_world"		"models/weapons/w_knife_default_t.mdl"
+			"used_by_classes"
+			{
+				"terrorists"		"1"
+			}
+			"inventory_image_data"
+			{
+				"camera_angles"		"0.0 -70.0 25.0"
+				"camera_offset"		"7.0 0 -2"
+			}
+			"attributes"
+			{
+				"icon display model"		"models/weapons/w_knife_default_t.mdl"
+				"pedestal display model"		"models/weapons/v_knife_default_t_inspect.mdl"
+			}
+		}

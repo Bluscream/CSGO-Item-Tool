@@ -1,0 +1,32 @@
+		"500"
+		{
+			"name"		"weapon_bayonet"
+			"prefab"		"melee_unusual"
+			"item_name"		"#SFUI_WPNHUD_KnifeBayonet"
+			"item_description"		"#CSGO_Item_Desc_Knife_Bayonet"
+			"image_inventory"		"econ/weapons/base_weapons/weapon_bayonet"
+			"icon_default_image"		"materials/icons/inventory_icon_weapon_bayonet.vtf"
+			"model_player"		"models/weapons/v_knife_bayonet.mdl"
+			"model_world"		"models/weapons/w_knife_bayonet.mdl"
+			"used_by_classes"
+			{
+				"terrorists"		"1"
+				"counter-terrorists"		"1"
+			}
+			"attributes"
+			{
+				"pedestal display model"		"models/weapons/v_knife_bayonet_inspect.mdl"
+			}
+			"paint_data"
+			{
+				"PaintableMaterial0"
+				{
+					"Name"		"knife_bayonet"
+					"ViewmodelDim"		"2048"
+					"WorldDim"		"512"
+					"BaseTextureOverride"		"0"
+					"WeaponLength"		"14.518000"
+					"UVScale"		"0.505000"
+				}
+			}
+		}

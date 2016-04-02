@@ -1,0 +1,38 @@
+"507"
+{
+	"name"		"weapon_knife_karambit"
+	"prefab"		"melee_unusual"
+	"item_name"		"#SFUI_WPNHUD_KnifeKaram"
+	"item_description"		"#CSGO_Item_Desc_Knife_Karam"
+	"image_inventory"		"econ/weapons/base_weapons/weapon_knife_karambit"
+	"icon_default_image"		"materials/icons/inventory_icon_weapon_knife_karambit.vtf"
+	"model_player"		"models/weapons/v_knife_karam.mdl"
+	"model_world"		"models/weapons/w_knife_karam.mdl"
+	"used_by_classes"
+	{
+		"terrorists"		"1"
+		"counter-terrorists"		"1"
+	}
+	"attributes"
+	{
+		"pedestal display model"		"models/weapons/v_knife_karam_inspect.mdl"
+	}
+	"inventory_image_data"
+	{
+		"camera_angles"		"30.0 -95.0 -5.0"
+		"camera_offset"		"10.0 1.5 -3.2"
+	}
+	"paint_data"
+	{
+		"PaintableMaterial0"
+		{
+			"Name"		"knife_karam"
+			"OrigMat"		"karam"
+			"ViewmodelDim"		"2048"
+			"WorldDim"		"512"
+			"BaseTextureOverride"		"0"
+			"WeaponLength"		"9.813000"
+			"UVScale"		"0.438000"
+		}
+	}
+}

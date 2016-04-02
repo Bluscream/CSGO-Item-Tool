@@ -1,0 +1,48 @@
+"514"
+{
+	"name"		"weapon_knife_survival_bowie"
+	"prefab"		"melee_unusual"
+	"item_name"		"#SFUI_WPNHUD_knife_survival_bowie"
+	"item_description"		"#CSGO_Item_Desc_knife_survival_bowie"
+	"image_inventory"		"econ/weapons/base_weapons/weapon_knife_survival_bowie"
+	"icon_default_image"		"materials/icons/inventory_icon_weapon_knife_survival_bowie.vtf"
+	"model_player"		"models/weapons/v_knife_survival_bowie.mdl"
+	"model_world"		"models/weapons/w_knife_survival_bowie.mdl"
+	"model_dropped"		"models/weapons/w_knife_survival_bowie_dropped.mdl"
+	"used_by_classes"
+	{
+		"terrorists"		"1"
+		"counter-terrorists"		"1"
+	}
+	"attributes"
+	{
+		"pedestal display model"		"models/weapons/v_knife_survival_bowie_inspect.mdl"
+	}
+	"inventory_image_data"
+	{
+		"camera_angles"		"30.0 -95.0 29.0"
+		"camera_offset"		"7.0 1.5 -1.5"
+	}
+	"paint_data"
+	{
+		"PaintableMaterial0"
+		{
+			"Name"		"knife_survival_bowie"
+			"ViewmodelDim"		"2048"
+			"WorldDim"		"512"
+			"BaseTextureOverride"		"1"
+			"WeaponLength"		"18.434601"
+			"UVScale"		"0.461662"
+		}
+	}
+	"tags"
+	{
+		"ItemSet"
+		{
+			"tag_value"		"set_community_11"
+			"tag_text"		"#CSGO_set_community_11"
+			"tag_group"		"ItemSet"
+			"tag_group_text"		"#SFUI_InvTooltip_SetTag"
+		}
+	}
+}

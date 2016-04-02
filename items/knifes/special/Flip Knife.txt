@@ -1,0 +1,37 @@
+"505"
+{
+	"name"		"weapon_knife_flip"
+	"prefab"		"melee_unusual"
+	"item_name"		"#SFUI_WPNHUD_KnifeFlip"
+	"item_description"		"#CSGO_Item_Desc_Knife_Flip"
+	"image_inventory"		"econ/weapons/base_weapons/weapon_knife_flip"
+	"icon_default_image"		"materials/icons/inventory_icon_weapon_knife_flip.vtf"
+	"model_player"		"models/weapons/v_knife_flip.mdl"
+	"model_world"		"models/weapons/w_knife_flip.mdl"
+	"used_by_classes"
+	{
+		"terrorists"		"1"
+		"counter-terrorists"		"1"
+	}
+	"attributes"
+	{
+		"pedestal display model"		"models/weapons/v_knife_flip_inspect.mdl"
+	}
+	"inventory_image_data"
+	{
+		"camera_angles"		"30.0 -95.0 29.0"
+		"camera_offset"		"9.0 1.0 -1.5"
+	}
+	"paint_data"
+	{
+		"PaintableMaterial0"
+		{
+			"Name"		"knife_flip"
+			"ViewmodelDim"		"2048"
+			"WorldDim"		"512"
+			"BaseTextureOverride"		"0"
+			"WeaponLength"		"12.900000"
+			"UVScale"		"0.411000"
+		}
+	}
+}
