@@ -1,0 +1,4 @@
+﻿
+Class EventClass
+
+End Class

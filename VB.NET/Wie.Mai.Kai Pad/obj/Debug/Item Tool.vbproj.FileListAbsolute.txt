@@ -1,0 +1,15 @@
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\bin\Debug\Wie.Mai.Kai Pad.exe.config
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Item Tool.vbproj.ResolveComReference.cache
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Wie.Mai.Kai Pad.exe
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Wie.Mai.Kai Pad.xml
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Wie.Mai.Kai Pad.pdb
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\bin\Debug\Wie.Mai.Kai Pad.exe
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\bin\Debug\Wie.Mai.Kai Pad.pdb
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\bin\Debug\Wie.Mai.Kai Pad.xml
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Item Tool.vbprojResolveAssemblyReference.cache
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Wie.Mai.Kai_Pad.Form1.resources
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Wie.Mai.Kai_Pad.Resources.resources
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Wie.Mai.Kai_Pad.wmkpad_firstrun.resources
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Wie.Mai.Kai_Pad.wmkpad_about.resources
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Wie.Mai.Kai_Pad.wmkpad_splash.resources
+D:\Coding\Projekte\CSGO\ItemTool\Wie.Mai.Kai Pad\obj\Debug\Item Tool.vbproj.GenerateResource.Cache
